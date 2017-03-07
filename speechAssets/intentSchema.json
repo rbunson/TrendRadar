@@ -1,0 +1,12 @@
+{  
+  "intents": [  
+    { "intent": "whatIsTrendRadarIntent", "slots": [] },  
+    { "intent": "describeTheDiagramIntent", "slots": [] },  
+    { "intent": "topTrendsIntent", "slots": [{ "name": "top", "type": "AMAZON.NUMBER" }] },
+    { "intent": "trendIntent", "slots": [{ "name": "specificTrend", "type": "specificTrend" }] }, 
+    { "intent": "trendDetailsIntent", "slots": [{ "name": "specificTrend", "type": "specificTrend" }] }, 
+    { "intent": "AMAZON.HelpIntent",  "slots": [] },  
+    { "intent": "AMAZON.CancelIntent",  "slots": [] },  
+    { "intent": "AMAZON.StopIntent", "slots": [] }
+  ]  
+}

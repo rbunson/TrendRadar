@@ -1,0 +1,40 @@
+{
+  "name": "trend_radar",
+  "version": "1.0.0",
+  "description": "Munich Re IT Trend Radar",
+  "main": "src/index.js",
+  "author": "Bob Bunson",
+  "license": "ISC",
+  "alexa": {
+    "applicationId": "amzn1.echo-sdk-ams.app.999999-d0ed-9999-ad00-999999d00ebe"
+  },
+  "dependencies": {
+    "alexa-app": "^2.1.0",
+    "lodash": "^4.17.4"
+  },
+  "aws": {
+    "accessKeyId": "",
+    "secretAccessKey": "",
+    "region": "us-east-1",
+    "sslEnabled": true
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "^5.2.0",
+    "del": "^2.2.0",
+    "fs": "0.0.2",
+    "gulp": "^3.9.0",
+    "gulp-help": "^1.6.1",
+    "gulp-install": "^0.6.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-jslint": "^0.2.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-shell": "^0.5.1",
+    "gulp-util": "^3.0.7",
+    "gulp-zip": "^3.0.2",
+    "jshint": "^2.9.4",
+    "mocha": "^2.3.4",
+    "node-aws-lambda": "^0.1.7",
+    "run-sequence": "^1.1.5"
+  }
+}

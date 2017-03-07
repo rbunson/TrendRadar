@@ -1,0 +1,21 @@
+{
+  "name": "it_trend_radar",
+  "version": "1.0.0",
+  "description": "Munich RE IT Trend Radar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "Munich Re"
+  ],
+  "author": "Amazon.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "opearlo-analytics": "^0.1.7",
+    "lodash": "^4.17.4"
+  }
+}

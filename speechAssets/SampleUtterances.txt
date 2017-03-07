@@ -1,0 +1,37 @@
+whatIsTrendRadarIntent what is the radar
+whatIsTrendRadarIntent what is the trend radar
+whatIsTrendRadarIntent what is the IT trend radar
+whatIsTrendRadarIntent what's the radar
+whatIsTrendRadarIntent what's the trend radar
+whatIsTrendRadarIntent what's the IT trend radar
+
+describeTheDiagramIntent tell me about the diagram
+describeTheDiagramIntent what's in the diagram
+describeTheDiagramIntent how do you read the diagram 
+describeTheDiagramIntent how do I read the diagram
+describeTheDiagramIntent how to read the diagram 
+
+topTrendsIntent tell me about the top trends
+topTrendsIntent tell me about top trends
+topTrendsIntent top trends
+topTrendsIntent what are the top trends
+topTrendsIntent name the top trends
+topTrendsIntent what are the top {top} trends
+topTrendsIntent name the {top} trends
+
+trendIntent tell me about {specificTrend}
+trendIntent {specificTrend}
+trendIntent details for {specificTrend}
+trendIntent details about {specificTrend}
+trendIntent {specificTrend} details
+
+trendDetailsIntent more
+trendDetailsIntent give me more
+trendDetailsIntent more info for {specificTrend}
+trendDetailsIntent more about {specificTrend}
+
+AMAZON.StopIntent stop
+AMAZON.StopIntent off
+AMAZON.StopIntent quit
+AMAZON.StopIntent bye
+AMAZON.StopIntent good bye
